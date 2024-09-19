@@ -1,0 +1,78 @@
+*{
+    margin: auto;
+    
+}
+.nav-bar{
+    background-color: gray;
+    display: flex;
+    justify-content: space-between;
+}
+.frist{
+    display: flex;
+    margin: 10px 100px 0px 250px;
+    padding: 10px;
+}
+.nav-list{
+    display: flex;
+    list-style: none;
+    /* justify-content: space-between;*/
+    margin-left: 440px; 
+    color: white;
+    
+}
+.item{
+    margin-right: 10px;
+    padding: 10px;
+    font-size: 19px;
+    text-decoration: none;
+    cursor: pointer;
+}
+.btn{
+    border-radius: 35px;
+    background-color: aliceblue;
+    color: black;
+    border: none;
+    padding: 5px;
+}
+.shama{
+    margin: 170px 55px 100px 250px;
+   
+}
+h1{
+    font-size: 40px;
+    font-weight: bold;
+}
+h2{
+    font-size: 80px;
+    font-weight: 800px;
+}
+p{
+    color: #636161;
+    font-size: 30px;
+    font-weight: 900xp;
+}
+.icon{
+    margin-top: 70px;
+}
+.logo{
+    margin-right: 20px;
+    padding: 10px;
+    background-color: rgb(78,73,73);
+}
+.ss{
+    display: flex;
+    padding: 20px;
+    padding-right: 100px;
+    background-image:url(image.jpg),linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.4));
+    background-blend-mode: overlay;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+  background-size: cover;
+  background-blend-mode: overlay;
+    
+}
+.chobi{
+margin-top: 80px;
+}
+
+
